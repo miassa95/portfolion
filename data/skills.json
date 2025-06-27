@@ -1,0 +1,111 @@
+[
+    {
+        "image": "html-css.webp",
+        "title": "HTML - CSS",
+        "text": "Intégration d’interfaces responsives et accessibles, utilisation de maquettes Figma, développement d’animations CSS",
+        "alt": "Logo HTML5 et CSS3"
+    },
+    {
+        "image": "js.webp",
+        "title": "javascript",
+        "text": "Manipulation du DOM, création d’éléments dynamiques, gestion de données de formulaires",
+        "alt": "Logo JavaScript jaune"
+    },
+    {
+        "image": "react.webp",
+        "title": "React",
+        "text": "Création d’applications React, création de composants et manipulation de leur état",
+        "alt": "Logo React bleu avec atome"
+    },
+    {
+        "image": "gestion-de-projet.webp",
+        "title": "Gestion de projet",
+        "text": "Analyse des besoins d’un client, définition d’une solution technique répondant aux besoins fonctionnelle, planification du projet",
+        "alt": "Icône illustrant la gestion de projet"
+    },
+    {
+        "image": "optimisation-et-debug.webp",
+        "title": "Optimisation et debug",
+        "text": "Identification des anomalies et correction d’un site existant, optimisation SEO et performance et publication d’un site en ligne",
+        "alt": "Icône représentant la vitesse et l'optimisation"
+    },
+    {
+        "image": "test.webp",
+        "title": "Test",
+        "text": "Tests exploratoires, unitaires et d’intégration, définition d’une stratégie de test et d’un rédaction d’un cahier de recette, automatisation de tests E2E et d’API",
+         "alt": "Icône représentant des tests logiciels avec des coches vertes"
+    },
+    {
+        "image": "Cypress.webp",
+        "title": "Cypress",
+        "text": "Automatisation de tests E2E, tests de flux utilisateur, assertions sur le DOM et appels API pour valider le bon fonctionnement des applications web",
+        "alt": "Logo Cypress vert et noir"
+    },
+    {
+        "image": "Swagger.webp",
+        "title": "Swagger",
+        "text": "Exploration, test et documentation d’API REST, vérification des endpoints et des paramètres, compréhension des réponses pour faciliter le développement",
+        "alt": "Logo Swagger vert"
+    },
+    {
+        "image": "jira.webp",
+        "title": "Jira",
+        "text": "Suivi des tickets, planification des sprints, gestion des tâches et bugs, collaboration entre développeurs, équipes produit et QA",
+        "alt": "Logo Jira Software bleu"
+    },
+    {
+        "image": "Trello.webp",
+        "title": "Trello",
+        "text": "Organisation et suivi de l’avancement des tâches avec un tableau Kanban visuel pour gérer les priorités et favoriser la collaboration",
+        "alt": "Logo Trello bleu clair"
+    },
+    {
+        "image": "Vscode.webp",
+        "title": "Visual Studio Code",
+        "text": "Éditeur de code léger et puissant utilisé pour le développement web, le débogage et l’intégration avec Git et des extensions comme Cypress",
+        "alt": "Logo Visual Studio Code bleu"
+    },
+    {
+        "image": "Docker.webp",
+        "title": "Docker",
+        "text": "Utilisé pour installer et exécuter des projets en local dans un environnement conteneurisé, facilitant les tests indépendamment du système hôte",
+        "alt": "Logo Docker bleu"
+    },
+    {
+        "image": "Git.webp",
+        "title": "Git",
+        "text": "Système de gestion de version distribué pour suivre les modifications du code, collaborer efficacement et maintenir l’historique des projets",
+        "alt": "Logo Git orange"
+    },
+    {
+        "image": "Github.webp",
+        "title": "GitHub",
+        "text": "Plateforme de gestion de code source pour héberger les projets, collaborer en équipe et automatiser les tests via des actions GitHub",
+        "alt": "Logo GitHub noir et blanc"
+    },
+    {
+        "image": "Figma.webp",
+        "title": "Figma",
+        "text": "Outil de design collaboratif pour créer, partager et consulter des maquettes UI/UX, facilitant la communication entre designers et développeurs",
+        "alt": "Logo Figma multicolore"
+    },
+    {
+        "image": "Feedly.webp",
+        "title": "Feedly",
+        "text": "Plateforme de veille technologique pour suivre les tendances du secteur QA, organiser ses sources et rester informé des nouveautés et bonnes pratiques",
+        "alt": "Logo Feedly vert clair"
+    },
+    {
+         "image": "API-rest.webp",
+        "title": "API REST",
+        "text": "Communication entre le front-end et le back-end via des requêtes HTTP, gestion des endpoints, des paramètres et des réponses pour les applications web modernes",
+        "alt": "Icône illustrant une API REST avec une flèche bidirectionnelle"
+    },
+    {
+         "image": "Postman.webp",
+         "title": "Postman",
+         "text": "Outil de test et d’automatisation de requêtes API REST, vérification des statuts, des en-têtes et des réponses pour valider le bon fonctionnement des services web",
+         "alt": "Logo Postman orange avec une fusée"
+    }
+
+]

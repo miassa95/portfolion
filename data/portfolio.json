@@ -1,0 +1,39 @@
+[
+  {
+    "image": "Booki.png.webp",
+    "title": "Booki",
+    "text": "Dans ce projet, j’ai participé à la réalisation du site Booki en suivant la maquette Figma pour intégrer une interface responsive et optimisée pour tous les écrans. J’ai utilisé HTML5 et CSS pour structurer le contenu et appliquer une mise en page fidèle aux standards du web.",
+    "link": "https://github.com/miassa95/BOOKI.git"
+  },
+  {
+    "image": "Kasa.png.webp",
+    "title": "Kasa",
+    "text": "Dans ce projet, j’ai développé le front-end de  l’application Kasa avec  React et  React Router. J’ai créé des  composants réutilisables, géré la navigation entre les pages et intégré les données provenant d’une API. J’ai aussi soigné le design avec des animations CSS.",
+    "link": "https://github.com/miassa95/Kasa.git"
+  },
+  {
+    "image": "Sophie-Bluel.png.webp",
+    "title": "Architecte Sophie Bluel",
+    "text": "Pour ce projet, j’ai conçu un portfolio dynamique pour une architecte. J’ai intégré une authentification sécurisée, géré l’affichage et la modification de projets via une API, et mis en place un back-office permettant à l’administrateur de gérer les galeries d’images.",
+    "link": "https://github.com/miassa95/Portfolio-architecte-sophie-bluel.git"
+  },
+  {
+    "image": "Riding-cities.png.webp",
+    "title": "Print-It",
+    "text": "Dans ce projet, j’ai construit une page web en HTML en respectant une maquette existante. J’ai mis en place une nouvelle section présentant les membres fondateurs de l’association Riding Cities et j’ai modifié les boutons de téléchargement pour qu’ils correspondent aux besoins du client.",
+    "link": "https://github.com/miassa95/print-it.git"
+  },
+  {
+    "image": "Eco-Bliss-Bath.png.webp",
+    "title": "Tests Eco Bliss Bath",
+    "text": "En tant que QA Engineer, j’ai automatisé des tests pour le site Eco Bliss Bath à l’aide de Cypress. J’ai rédigé des scripts pour vérifier l’API, les fonctionnalités critiques et la sécurité XSS. J’ai aussi rédigé un rapport de campagne de test détaillant les anomalies trouvées.",
+    "link": "https://github.com/miassa95/tests-eco-bliss.git"
+  },
+  {
+     "image": "tomsen.webp",
+     "title": "Campagne de tests",
+     "text": "Dans ce projet, j'ai analysé les spécifications fonctionnelles de l'application, identifié les fonctionnalités clés à tester et élaboré une stratégie de test adaptée aux méthodes agiles. J'ai organisé le suivi sur Notion et rédigé un cahier de recette détaillé. Cette expérience a renforcé mes compétences en analyse, planification et documentation des tests pour assurer la qualité et la fiabilité du logiciel.",
+     "link": "https://github.com/miassa95/P11_TOMSEN_Miassa.git"
+}
+
+]
